@@ -10,7 +10,7 @@ const Footer = () => {
              <div className='img'>
                  <img src={logo} alt='' />
              </div>
-             <p>2022. All rights reserved by dev_jnr</p>
+             <p>2022. All rights reserved by Gabriel O.</p>
          </div>
      </footer>
     
